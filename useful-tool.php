@@ -1,0 +1,3 @@
+<?php
+$monkey='Colobus Monkey';
+?>
